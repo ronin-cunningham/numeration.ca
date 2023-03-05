@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7Bnumeration.ca%7D/static/css/main.073c9b0a.css",
+    "main.js": "/%7Bnumeration.ca%7D/static/js/main.534c2b5f.js",
+    "static/media/image.jpg": "/%7Bnumeration.ca%7D/static/media/image.3974cfbf58bb9906f612.jpg",
+    "index.html": "/%7Bnumeration.ca%7D/index.html",
+    "main.073c9b0a.css.map": "/%7Bnumeration.ca%7D/static/css/main.073c9b0a.css.map",
+    "main.534c2b5f.js.map": "/%7Bnumeration.ca%7D/static/js/main.534c2b5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.534c2b5f.js"
+  ]
+}
