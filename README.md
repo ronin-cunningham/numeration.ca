@@ -1,2 +1,1 @@
-# numeration.ca
-Temporary Numeration website
+# Temporary website for Numeration
